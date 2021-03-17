@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node monitor.js"
   },
-  "author": "",
+  "author": "backenddev",
   "license": "ISC",
   "dependencies": {
     "agentkeepalive": "^4.1.4",
