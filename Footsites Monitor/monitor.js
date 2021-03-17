@@ -109,6 +109,9 @@ async function monitor(){
 			error = true; 
 			await monitor();
 		};
+	}else{
+
+		await monitor();
 	};
 };
 
