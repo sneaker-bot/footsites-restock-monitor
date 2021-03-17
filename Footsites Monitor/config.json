@@ -1,0 +1,6 @@
+{
+	"sku" : "GZ0434", 
+	"webhook" : "",
+	"monitor_delay" : 3333, 
+	"error_delay" : 9999
+}
