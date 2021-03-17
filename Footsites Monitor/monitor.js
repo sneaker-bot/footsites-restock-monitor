@@ -67,7 +67,9 @@ async function monitor(){
 			    "sec-fetch-mode": "navigate",
 			    "sec-fetch-site": "none",
 			    "sec-fetch-user": "?1",
-			    "upgrade-insecure-requests": "1"
+			    "upgrade-insecure-requests": "1",
+			    "user-agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+
 		}, 
 
 		agent : {
