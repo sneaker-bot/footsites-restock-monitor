@@ -1,0 +1,6 @@
+{
+	"sku" : "X7039916", 
+	"webhook" : "https://discord.com/api/webhooks/722983530530865262/jsiZPRdl5_mcMWaqfSLC8dU0KSY6-FhO9AaQmHRZ068MXGFSJRhUQX2gPqzRrOfKo2ux",
+	"monitor_delay" : 3333, 
+	"error_delay" : 9999
+}
